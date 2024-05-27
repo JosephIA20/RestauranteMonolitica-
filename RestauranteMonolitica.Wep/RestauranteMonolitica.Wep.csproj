@@ -6,16 +6,4 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="BL\Interfaces\" />
-    <Folder Include="BL\Services\" />
-    <Folder Include="Data\Core\" />
-    <Folder Include="Data\DbObjects\" />
-    <Folder Include="Data\Entities\" />
-    <Folder Include="Data\Exceptions\" />
-    <Folder Include="Data\Interfaces\" />
-    <Folder Include="Data\Models\" />
-    <Folder Include="Data\Context\" />
-  </ItemGroup>
-
 </Project>
